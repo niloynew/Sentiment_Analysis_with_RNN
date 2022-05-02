@@ -1,2 +1,4 @@
 # Sentiment_Analysis_with_RNN
-An ongoing attempt to run RNN for building a prediction model for Yelp text-review dataset (positive/negative)
+My ongoing attempt to build a prediction model with Recurrent Neural Network for Yelp text-review dataset (positive/negative)
+I am coding on google research collab mounted with my google drive.
+The collab link is attached with the file.
